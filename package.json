@@ -2,7 +2,7 @@
   "author": "Michael Feldstein",
   "name": "gitignore",
   "description": "Automatically fetch gitignore files for any project type from github into your new project",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "repository": {
     "url": "https://github.com/msfeldstein/gitignore"
   },
