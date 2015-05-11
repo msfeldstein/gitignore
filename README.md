@@ -1,8 +1,8 @@
 # gitignore
 
-Automatically fetch github's excellent .gitignore files for any of your new projects
+Automatically fetch github's excellent `.gitignore` files for any of your new projects
 
-Here is the list of available types: https://github.com/github/gitignore
+[Here is the list of available types](https://github.com/github/gitignore)
 
 ## Use as a global utility
 
