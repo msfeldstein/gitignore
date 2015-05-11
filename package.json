@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/msfeldstein/gitignore"
   },
-  "main": "./lib/main",
+  "main": "./lib/library.js",
   "bin": {
     "gitignore": "./bin/gitignore.js"
   },
