@@ -2,7 +2,8 @@
   "author": "Michael Feldstein",
   "name": "gitignore",
   "description": "Automatically fetch gitignore files for any project type from github into your new project",
-  "version": "0.5.0",
+  "version": "1.0.0",
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/msfeldstein/gitignore"
   },
@@ -10,7 +11,11 @@
   "bin": {
     "gitignore": "./bin/gitignore.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.5",
+    "global-tunnel-ng": "^2.6.0"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
